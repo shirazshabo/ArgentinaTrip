@@ -13,6 +13,11 @@ h1 {margin-left:10%; margin-right: 10%;color: black; font-family: "Sofia", sans-
   text-align: center;
 }
 
+#space{
+ font-size: 27px;
+ color: DarkBlue;	
+}
+
 body {
   font-family: Poppins, sans-serif;
   font-size: 16px;  
