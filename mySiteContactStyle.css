@@ -25,7 +25,7 @@ body {
  color: DarkBlue;	
 }
 
-@media and screen (min-width:350) and (max-width: 500){
+@media and screen (min-width:1000) and (max-width: 2000){
  #specialIl {
   display: inline;
   font-family: Poppins, sans-serif;
