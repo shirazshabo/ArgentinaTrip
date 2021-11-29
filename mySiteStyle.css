@@ -21,6 +21,11 @@ body {
   text-align: center;
 }
 
+#space{
+ font-size: 27px;
+ color: DarkBlue;	
+}
+
 h2 {
 	text-decoration: underline;
 }
