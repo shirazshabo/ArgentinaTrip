@@ -160,6 +160,9 @@ body {
 .next {
   margin-top: -130px;
 }
+.demo {
+  height: 50px;
+}
 }
 
 @media screen and (max-width: 500px) and (min-width: 350px){
