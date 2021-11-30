@@ -13,7 +13,7 @@ h1 {margin-left:10%; margin-right: 10%;color: black; font-family: "Sofia", sans-
   text-align: center;
 }
 
-#space{
+#paus{
  font-size: 27px;
  color: DarkBlue;	
 }
@@ -131,6 +131,9 @@ img {
  #specialIl {
   font-size: 22px;
  }
+ #paus{
+	font-size: 25px;
+}
 h1 {
 	font-size: 41px;
 	margin-top: 10px;
