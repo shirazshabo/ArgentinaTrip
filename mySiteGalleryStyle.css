@@ -192,4 +192,7 @@ body {
 .next {
   margin-top: -120px;
 }
+.demo {
+  height: 50px;
+}
 }
