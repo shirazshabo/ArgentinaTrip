@@ -28,11 +28,12 @@ body {
 @media screen and (max-width: 500px) and (min-width: 350px){
  #specialIl {
   font-size: 22px;
+  margin-top:10px;
  }
 h1 {
-	font-size: 41px;
+	font-size: 40px;
 }
-	body {
-  font-size: 30px;  
+body {
+  font-size: 19px;  
 }
 }
