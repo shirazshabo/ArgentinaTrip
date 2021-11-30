@@ -34,6 +34,25 @@ img {
 	border-radius: 50%;
 }
 
+@media screen and (max-width: 349px) {
+#specialIl {
+  font-size: 17px;
+ }	
+ #paus{
+	font-size: 20px;
+}
+h1 {
+	font-size: 38px;
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-top: 10px; 
+	margin-bottom: -34px;
+	}
+img {
+	width: 250;
+}
+}
+
 @media screen and (max-width: 500px) and (min-width: 350px){
  #specialIl {
   font-size: 22px;
@@ -43,6 +62,9 @@ img {
 }
 h1 {
 	font-size: 50px;
-	margin-top: 10px; 
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-top: 10px;
+	margin-bottom: -30;	
 	}
 }
