@@ -127,6 +127,41 @@ img {
   opacity: 1;
 }
 
+@media screen and (max-width: 349px){
+#specialIl {
+  font-size: 17px;
+ }
+ #paus{
+	font-size: 20px;
+}
+	.numbertext {
+  padding: 8px 10px 75px 100px;
+	}
+h1 {
+	font-size: 34px;
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-top: 10px;
+	margin-bottom: -20px;
+	}
+.numbertext {
+  padding: 8px 10px 75px 80px;
+}	
+body {
+  font-size: 15px;  
+}
+.next {
+  right: 25;
+}
+.prev {
+  left: 25;
+}
+.prev,
+.next {
+  margin-top: -130px;
+}
+}
+
 @media screen and (max-width: 500px) and (min-width: 350px){
  #specialIl {
   font-size: 22px;
@@ -137,6 +172,9 @@ img {
 h1 {
 	font-size: 41px;
 	margin-top: 10px;
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-bottom: -15;
 	}
 .numbertext {
   padding: 8px 10px 75px 100px;
