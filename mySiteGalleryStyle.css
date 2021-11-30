@@ -133,11 +133,22 @@ img {
  }
 h1 {
 	font-size: 41px;
+	margin-top: 10px;
 	}
 .numbertext {
-  padding: 8px 10px 75px 300px;
+  padding: 8px 10px 75px 100px;
 }
 body {
-  font-size: 15px;  
+  font-size: 18px;  
+}
+.next {
+  right: 30;
+}
+.prev {
+  left: 30;
+}
+.prev,
+.next {
+  margin-top: -120px;
 }
 }
